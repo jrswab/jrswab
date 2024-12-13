@@ -1,16 +1,41 @@
-## Hi there 👋
-
 <!--
 **jrswab/jrswab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+# Hello, I'm Jaron 👋
+
+I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy. Currently, I'm working on [LSQ](https://github.com/jrswab/lsq) - a blazing-fast CLI that brings terminal efficiency to Logseq journaling.
+
+## About Me
+
+- 💼 Full-time software engineer
+- 👨‍👩‍👦 Husband and father
+- 💻 Command-line tool enthusiast
+- ☕ Coffee aficionado
+- ⚡ Productivity maximizer
+- ✝️ Follower of Christ
+
+## What I Build
+
+I create tools that embrace these principles:
+- Clean, focused functionality
+- Enhanced developer workflows
+- Privacy-respecting design
+- Open source sustainability (GPL v3)
+
+## Current Focus
+
+LSQ - Git-style commands meet knowledge management:
+- Fast and efficient journaling
+- Terminal-based workflow
+- Deep integration possibilities
+- Privacy-first approach
+
+## Support My Work
+
+If you find my tools useful, consider [supporting my work on Liberapay](https://liberapay.com/jrswab). Your support helps me dedicate more time to developing tools that make developers' lives easier!
+
+👉 You can also follow me here on GitHub to stay updated with my latest projects and contributions. I'm always dreaming up new tools to make developers' lives easier!
+
+---
+
+*Col 3:17*
