@@ -3,7 +3,7 @@
 -->
 # Hello, I'm Jaron 👋
 
-I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy. Currently, I'm working on [LSQ](https://github.com/jrswab/lsq) - a blazing-fast CLI that brings terminal efficiency to Logseq journaling.
+I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy. Currently, I'm working on [LSQ](https://github.com/jrswab/lsq) - a blazing-fast CLI that brings terminal efficiency to Logseq.
 
 ## About Me
 
