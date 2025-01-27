@@ -3,7 +3,11 @@
 -->
 # Hello, I'm Jaron 👋
 
-I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy. Currently, I'm working on [LSQ](https://github.com/jrswab/lsq) - a blazing-fast CLI that brings terminal efficiency to Logseq.
+I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy.
+
+Currently, I'm working on:
+- [lsq](https://github.com/jrswab/lsq) - A blazing-fast CLI for Logseq to quickly create and edit journal entries and pages. 
+- [go-htmx-forge](https://github.com/jrswab/go-htmx-forge) - A template for building hypermedia-driven web apps with maximum efficiency.
 
 ## About Me
 
