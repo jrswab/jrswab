@@ -26,14 +26,6 @@ I create tools that embrace these principles:
 - Privacy-respecting design
 - Open source sustainability (GPL v3)
 
-## Current Focus
-
-LSQ - Git-style commands meet knowledge management:
-- Fast and efficient journaling
-- Terminal-based workflow
-- Deep integration possibilities
-- Privacy-first approach
-
 ## Support My Work
 
 If you find my tools useful, consider [supporting my work on Liberapay](https://liberapay.com/jrswab). Your support helps me dedicate more time to developing tools that make developers' lives easier!
