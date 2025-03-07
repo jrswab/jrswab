@@ -3,28 +3,21 @@
 -->
 # Hello, I'm Jaron 👋
 
-I'm a full-time software engineer who's passionate about building command-line tools that enhance productivity and respect privacy.
+I'm a full-time software engineer crafting opensource tools for developer productivity.
 
-Currently, I'm working on:
+## Currently, I'm working on:
 - [lsq](https://github.com/jrswab/lsq) - A blazing-fast CLI for Logseq to quickly create and edit journal entries and pages. 
 - [go-htmx-forge](https://github.com/jrswab/go-htmx-forge) - A template for building hypermedia-driven web apps with maximum efficiency.
+- [GhostPlay](https://github.com/jrswab/ghostplay) - A Golang package for adding "account-less" gamification.
 
 ## About Me
 
 - 💼 Full-time software engineer
 - 👨‍👩‍👦 Husband and father
-- 💻 Command-line tool enthusiast
+- 💻 Command-line enthusiast
 - ☕ Coffee aficionado
-- ⚡ Productivity maximizer
+- ⚡ Productivity maximizer (Neovim btw)
 - ✝️ Follower of Christ
-
-## What I Build
-
-I create tools that embrace these principles:
-- Clean, focused functionality
-- Enhanced developer workflows
-- Privacy-respecting design
-- Open source sustainability (GPL v3)
 
 ## Support My Work
 
