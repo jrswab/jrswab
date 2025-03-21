@@ -7,7 +7,7 @@ I'm a full-time software engineer crafting opensource tools for developer produc
 
 ## Currently, I'm working on:
 - [lsq](https://github.com/jrswab/lsq) - A blazing-fast CLI for Logseq to quickly create and edit journal entries and pages. 
-- [go-htmx-forge](https://github.com/jrswab/go-htmx-forge) - A template for building hypermedia-driven web apps with maximum efficiency.
+- [go-pwa-forge](https://github.com/jrswab/go-pwa-forge) - A template for building hypermedia-driven progressive web apps with maximum efficiency.
 - [GhostPlay](https://github.com/jrswab/ghostplay) - A Golang package for adding "account-less" gamification.
 
 ## About Me
