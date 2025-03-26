@@ -3,7 +3,7 @@
 -->
 # Hello, I'm Jaron 👋
 
-I'm a full-time software engineer crafting opensource tools for developer productivity.
+I'm a software engineer crafting opensource tools for developer productivity.
 
 ## Currently, I'm working on:
 - [lsq](https://github.com/jrswab/lsq) - A blazing-fast CLI for Logseq to quickly create and edit journal entries and pages. 
