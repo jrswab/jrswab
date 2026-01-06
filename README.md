@@ -12,8 +12,4 @@ For myself and other developers, it's about creating tools to enhance our produc
 
 I believe software should solve problems in ways that honor God and are a net benefit to society. You can learn more about how I view software, the industry, and productivity as a Christian software engineer through my [blog content](https://jrswab.com).
 
-## Contact
-Twitter: [jrswab](https://x.com/jrswab)
-
----
 *Col 3:17*
