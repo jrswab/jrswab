@@ -10,6 +10,6 @@ By specializing in Go, CLI, and progressive web applications, I create solutions
 
 For myself and other developers, it's about creating tools to enhance our productivity. For businesses, it's about creating the exact solution to their needs. Doing so in a way that doesn't require the cost of a full software team.
 
-I believe software should solve problems in ways that honor God and are a net benefit to society. You can learn more about how I view software, the industry, and productivity as a Christian software engineer through my [blog content](https://jrswab.com).
+I believe software should solve problems in ways that honor God and are a net benefit to society. You can learn more about how I view software, the industry, and productivity as a Christian software engineer through my [blog content](https://jrswab.com/blog/).
 
 *Col 3:17*
