@@ -13,3 +13,11 @@ For myself and other developers, it's about creating tools to enhance our produc
 I believe software should solve problems in ways that honor God and are a net benefit to society. You can learn more about how I view software, the industry, and productivity as a Christian software engineer through my [blog content](https://jrswab.com/blog/).
 
 *Col 3:17*
+
+### 🛠️ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**go-pwa-forge**](https://github.com/jrswab/go-pwa-forge) | A Go template for building OpenBSD-ready web applications using Chi, Templ, and HDAs with automated deployment workflows and Redis integration. |
+| [**kjbc**](https://github.com/jrswab/kjbc) | A King James Bible concordance for the terminal. |
+| [**slipbot**](https://github.com/jrswab/slipbot) | Agentic Zettelkasten skill definitions for AI Agents. Captures notes, quotes, ideas, and journals via prefix syntax. |
