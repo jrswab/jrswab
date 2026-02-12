@@ -18,6 +18,7 @@ I believe software should solve problems in ways that honor God and are a net be
 
 | Project | Description |
 |---------|-------------|
+| [**lsq**](A command-line tool for Logseq to quickly create and edit journal entries.) | A command-line tool for Logseq to quickly create and edit journal entries. |
 | [**go-pwa-forge**](https://github.com/jrswab/go-pwa-forge) | A Go template for building OpenBSD-ready web applications using Chi, Templ, and HDAs with automated deployment workflows and Redis integration. |
 | [**kjbc**](https://github.com/jrswab/kjbc) | A King James Bible concordance for the terminal. |
 | [**slipbot**](https://github.com/jrswab/slipbot) | Agentic Zettelkasten skill definitions for AI Agents. Captures notes, quotes, ideas, and journals via prefix syntax. |
